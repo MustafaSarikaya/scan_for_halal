@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426708143332",
+    "project_id": "product-scanner-2c1b0",
+    "storage_bucket": "product-scanner-2c1b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426708143332:android:0bb4e5782c56caf73df0f1",
+        "android_client_info": {
+          "package_name": "com.pagesofcolour.scan_for_helal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426708143332-oa5nb5rv9g3v8qcatjakr821husualor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFtAIdEcn8Ktppb902qH3CN1JdidDjwxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426708143332-oa5nb5rv9g3v8qcatjakr821husualor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
