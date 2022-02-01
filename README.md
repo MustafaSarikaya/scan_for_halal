@@ -1,16 +1,8 @@
-# scan_for_helal
+# Scan for Halal
 
-A new Flutter application.
+Scan for halal is an application you use to scan a products ingredients list and see if there are Haram or Musbooh. 
 
-## Getting Started
+You can also see if any one of the ingredients is toxic or has other harmful effects.
 
-This project is a starting point for a Flutter application.
+The vision of the application is to provide healthy information to the user so that they can make an informed decison.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
